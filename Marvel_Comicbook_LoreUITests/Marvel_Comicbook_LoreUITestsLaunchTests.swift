@@ -1,10 +1,3 @@
-//
-//  Marvel_Comicbook_LoreUITestsLaunchTests.swift
-//  Marvel_Comicbook_LoreUITests
-//
-//  Created by Eric Davenport on 3/18/25.
-//
-
 import XCTest
 
 final class Marvel_Comicbook_LoreUITestsLaunchTests: XCTestCase {

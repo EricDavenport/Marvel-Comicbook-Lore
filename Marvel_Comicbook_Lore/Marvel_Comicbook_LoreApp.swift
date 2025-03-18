@@ -1,10 +1,3 @@
-//
-//  Marvel_Comicbook_LoreApp.swift
-//  Marvel_Comicbook_Lore
-//
-//  Created by Eric Davenport on 3/18/25.
-//
-
 import SwiftUI
 
 @main
